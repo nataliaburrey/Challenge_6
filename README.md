@@ -28,7 +28,9 @@ In this Challenge I created a Jupyter notebook with analysis of the housing rent
 
 I will demonstrate the ability to make an API call to Mapbox to create an interactive map to visualize data and better analize different areas as more attractive real estate investment. 
 
-You can find my analysis, including the answers to the questions from the Challenge instructions. For each line of code there is comments, necessary professionally styled visualizations are included. 
+<img width="1038" alt="Screen Shot 2021-05-03 at 2 42 37 PM" src="https://user-images.githubusercontent.com/80833988/116937276-db683200-ac1d-11eb-8294-a047e4d98e23.png">
+
+You can find my analysis, including the answers to the questions from the Challenge instructions. For each line of code there is comments, titles for plot, necessary professionally styled visualizations are included. 
 
 
 ## Why?
