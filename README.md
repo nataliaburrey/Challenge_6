@@ -1,10 +1,12 @@
 <img width="1712" alt="Screen Shot 2021-05-03 at 2 00 22 PM" src="https://user-images.githubusercontent.com/80833988/116933790-e40a3980-ac18-11eb-83b2-513db6638647.png">
 
+
 # Challenge 6
 ## Data visualization: creating interactive visualizations PyViz  and Mapbox API
 
 > "For this assignment, I will create a Jupyter notebook that contains analysis of the housing rental market data for San Francisco 2010-2016. The analysis will be complete with professionally styled and formatted interactive visualizations.
 "
+
 
 !!! Important - go to HOW TO USE to make sure you can run Jupyter Lab file correctly
 
@@ -26,14 +28,13 @@ In this Challenge I created a Jupyter notebook with analysis of the housing rent
 
 I will demonstrate the ability to make an API call to Mapbox to create an interactive map to visualize data and better analize different areas as more attractive real estate investment. 
 
-You can find comments for the line of code and my analysis, including the answers to the questions from the Challenge instructions. 
-For each line of code there is comments, necessary professionally styled visualizations are included. 
+You can find my analysis, including the answers to the questions from the Challenge instructions. For each line of code there is comments, necessary professionally styled visualizations are included. 
 
 
 ## Why?
 
 Proptech, the application of technology to real-estate markets, is an innovative domain in the fintech industry. 
-My challenge is to use your data visualization superpowers, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market 2010-2016 that are viable investment opportunities.
+My challenge is to use data visualization superpowers, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market 2010-2016 that are viable investment opportunities.
 
 
 
@@ -46,6 +47,7 @@ cd desktop
 
 git clone https://github.com/nataliaburrey/Challenge_6.git
 ```
+
 now you can find repo on your desktop
 
 
@@ -70,9 +72,14 @@ In order to succesfully run the file you have to generate your own Mapbox API ke
 To generate Mapbox API key go to https://www.mapbox.com/ . You have to create your own account and request a new key. 
 
 
+
 <img width="834" alt="Screen Shot 2021-05-03 at 2 30 18 PM" src="https://user-images.githubusercontent.com/80833988/116936209-5892a780-ac1c-11eb-906d-405f8dc2c3b1.png">
 
+
+
 Save it in .env file, make sure to name the variable MAPBOX_API_ACCESS_TOKEN
+
+
 
 
 <img width="709" alt="Screen Shot 2021-05-03 at 2 35 11 PM" src="https://user-images.githubusercontent.com/80833988/116936588-eb334680-ac1c-11eb-9da3-1a1972490693.png">
