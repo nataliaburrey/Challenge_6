@@ -87,10 +87,7 @@ Save it in .env file, make sure to name the variable MAPBOX_API_ACCESS_TOKEN
 <img width="709" alt="Screen Shot 2021-05-03 at 2 35 11 PM" src="https://user-images.githubusercontent.com/80833988/116936588-eb334680-ac1c-11eb-9da3-1a1972490693.png">
 
 ```
-
 MAPBOX_API_ACCESS_TOKEN = '<your key>'
-
-
 ```
 
 Those steps are nessesary to maintain a security of your information. 
