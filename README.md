@@ -3,7 +3,7 @@
 # Challenge 6
 ## Data visualization: creating interactive visualizations PyViz  and Mapbox API
 
-> "For this assignment, I will create a Jupyter notebook that contains analysis of the housing rental market data for San Francisco. The analysis will be complete with professionally styled and formatted interactive visualizations.
+> "For this assignment, I will create a Jupyter notebook that contains analysis of the housing rental market data for San Francisco 2010-2016. The analysis will be complete with professionally styled and formatted interactive visualizations.
 "
 
 !!! Important - go to HOW TO USE to make sure you can run Jupyter Lab file correctly
